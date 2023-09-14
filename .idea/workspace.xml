@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0d4a6e8-5f4e-48e4-8dcd-27ba7d3f2962" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/petModule.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/mainControlers.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/mainControlers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cat.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dog.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/giraffe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sloth.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/ramin/OneDrive/Desktop/WebstormProjects/type16_node/rugsejo6/back-end",
+    "last_opened_file_path": "C:/Users/ramin/Desktop/WebstormProjects/type16_node/rugsejo6/back-end",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,6 +52,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ramin\Desktop\WebstormProjects\type16_node\rugsejo6\back-end" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,22 +67,15 @@
       <updated>1694002379906</updated>
       <workItem from="1694002380933" duration="4411000" />
       <workItem from="1694349034108" duration="5740000" />
+      <workItem from="1694411417505" duration="97000" />
+      <workItem from="1694452565451" duration="3219000" />
+      <workItem from="1694531691540" duration="1530000" />
+      <workItem from="1694695196353" duration="292000" />
+      <workItem from="1694696280444" duration="2007000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/controllers/mainControlers.js</url>
-          <line>2</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
