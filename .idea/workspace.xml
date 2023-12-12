@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0d4a6e8-5f4e-48e4-8dcd-27ba7d3f2962" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/petModule.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/mainControlers.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/mainControlers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cat.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/dog.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/giraffe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sloth.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +36,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/ramin/Desktop/WebstormProjects/type16_node/rugsejo6/back-end",
+    "last_opened_file_path": "C:/Users/ramin/Desktop/WebstormProjects/type16_DB/rugsejo12/back_end",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,7 +64,8 @@
       <workItem from="1694452565451" duration="3219000" />
       <workItem from="1694531691540" duration="1530000" />
       <workItem from="1694695196353" duration="292000" />
-      <workItem from="1694696280444" duration="2007000" />
+      <workItem from="1694696280444" duration="9986000" />
+      <workItem from="1694754179395" duration="607000" />
     </task>
     <servers />
   </component>
